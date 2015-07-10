@@ -1,4 +1,7 @@
 # encoding: utf-8
+require 'find'
+require 'ropencv'
+include OpenCV
 
 module Sinatra
   module Linepig
