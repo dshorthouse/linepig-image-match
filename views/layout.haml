@@ -1,0 +1,17 @@
+!!! 5
+%html
+  %head
+    %meta{charset: "UTF-8" }/
+    %title
+      = yield_content :title
+    %link{href: '/main.css', rel: 'stylesheet', type: 'text/css' }
+    = yield_content :stylesheets
+    %script{src: '/javascript/jquery-1.11.0.min.js', type: 'text/javascript' }
+    = yield_content :scripts
+  %body
+    %header
+      %h1 LinEpig Image Matcher
+
+      %p.byline Upload and match epigynum images to the LinEpig library.
+    = yield
+    %footer

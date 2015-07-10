@@ -1,0 +1,11 @@
+development:
+  image_library: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/"
+  descriptor_store: "/Users/dshorthouse/Sites/linepig/descriptors/"
+
+test:
+  image_library: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/"
+  descriptor_store: "/Users/dshorthouse/Sites/linepig/descriptors/"
+
+production:
+  image_library: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/"
+  descriptor_store: "/Users/dshorthouse/Sites/linepig/descriptors/"

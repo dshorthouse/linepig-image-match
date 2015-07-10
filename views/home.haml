@@ -1,0 +1,9 @@
+-content_for :title do
+  LinEpig
+
+%form{:action => "/matches", :method => "post", :enctype=>"multipart/form-data", "accept-charset"=>"UTF-8"}
+  #form-wrapper.clear
+    %label{:for => 'find_file'} File
+    %input.linepig-file{:type => :file, :name => "find[file]", :id => :find_file, :size => 30}
+  %p
+    %input.form-button.submit-button{:type => :submit, :value => "Find Matches"}
