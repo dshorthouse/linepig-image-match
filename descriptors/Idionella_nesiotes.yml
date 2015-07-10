@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Idionella_nesiotes.jpg"
+src: "/images/epigyna/Idionella_nesiotes.jpg"
 descriptors: !!opencv-matrix
    rows: 281
    cols: 64

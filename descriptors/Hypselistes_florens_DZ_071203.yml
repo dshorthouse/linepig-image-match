@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Hypselistes_florens.DZ.071203.jpg"
+src: "/images/epigyna/Hypselistes_florens.DZ.071203.jpg"
 descriptors: !!opencv-matrix
    rows: 1151
    cols: 64

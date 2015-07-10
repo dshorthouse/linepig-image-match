@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Soucron_arenarium.jpg"
+src: "/images/epigyna/Soucron_arenarium.jpg"
 descriptors: !!opencv-matrix
    rows: 317
    cols: 64

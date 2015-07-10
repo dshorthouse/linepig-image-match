@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Sisis_rotundus-UAM.jpg"
+src: "/images/epigyna/Sisis_rotundus-UAM.jpg"
 descriptors: !!opencv-matrix
    rows: 1363
    cols: 64

@@ -24,7 +24,8 @@ module Linepig
         @detector.detect_and_compute(mat_train, mat_train, keypoints_train, descriptors_train)
 
         cvfile = cv::FileStorage.new(Sinatra::Application.settings.descriptor_store + file_name + ".yml", cv::FileStorage::WRITE)
-        cv::write_string(cvfile, "src", file)
+        src = file.gsub(Sinatra::Application.settings.root,'').gsub("/public","")
+        cv::write_string(cvfile, "src", src)
         cv::write_mat(cvfile, "descriptors", descriptors_train)
         cvfile.release
         puts "Built descriptors for #{file}"

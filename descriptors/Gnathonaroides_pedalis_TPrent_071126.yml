@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Gnathonaroides_pedalis.TPrent.071126.jpg"
+src: "/images/epigyna/Gnathonaroides_pedalis.TPrent.071126.jpg"
 descriptors: !!opencv-matrix
    rows: 693
    cols: 64

@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Ceratinopsis_auriculata-FMNH(LakeCo).jpg"
+src: "/images/epigyna/Ceratinopsis_auriculata-FMNH(LakeCo).jpg"
 descriptors: !!opencv-matrix
    rows: 1263
    cols: 64

@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Semljicola_obtusus-UAM.jpg"
+src: "/images/epigyna/Semljicola_obtusus-UAM.jpg"
 descriptors: !!opencv-matrix
    rows: 750
    cols: 64

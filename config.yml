@@ -1,11 +1,11 @@
 development:
-  image_library: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/"
-  descriptor_store: "/Users/dshorthouse/Sites/linepig/descriptors/"
+  image_library: "/Users/dshorthouse/Sites/linepig-image-match/public/images/epigyna/"
+  descriptor_store: "/Users/dshorthouse/Sites/linepig-image-match/descriptors/"
 
 test:
-  image_library: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/"
-  descriptor_store: "/Users/dshorthouse/Sites/linepig/descriptors/"
+  image_library: "/Users/dshorthouse/Sites/linepig-image-match/public/images/epigyna/"
+  descriptor_store: "/Users/dshorthouse/Sites/linepig-image-match/descriptors/"
 
 production:
-  image_library: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/"
-  descriptor_store: "/Users/dshorthouse/Sites/linepig/descriptors/"
+  image_library: "/Users/dshorthouse/Sites/linepig-image-match/public/images/epigyna/"
+  descriptor_store: "/Users/dshorthouse/Sites/linepig-image-match/descriptors/"

@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Walckenaeria_subdirecta-FMNH(LakeCo).jpg"
+src: "/images/epigyna/Walckenaeria_subdirecta-FMNH(LakeCo).jpg"
 descriptors: !!opencv-matrix
    rows: 810
    cols: 64

@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Ceraticelus_rowensis.jpg"
+src: "/images/epigyna/Ceraticelus_rowensis.jpg"
 descriptors: !!opencv-matrix
    rows: 186
    cols: 64

@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Spirembolus_novellus.jpg"
+src: "/images/epigyna/Spirembolus_novellus.jpg"
 descriptors: !!opencv-matrix
    rows: 816
    cols: 64

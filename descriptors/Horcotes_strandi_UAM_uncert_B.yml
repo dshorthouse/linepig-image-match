@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Horcotes_strandi-UAM(uncert)B.jpg"
+src: "/images/epigyna/Horcotes_strandi-UAM(uncert)B.jpg"
 descriptors: !!opencv-matrix
    rows: 540
    cols: 64

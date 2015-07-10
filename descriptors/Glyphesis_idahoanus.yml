@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Glyphesis_idahoanus.jpg"
+src: "/images/epigyna/Glyphesis_idahoanus.jpg"
 descriptors: !!opencv-matrix
    rows: 582
    cols: 64

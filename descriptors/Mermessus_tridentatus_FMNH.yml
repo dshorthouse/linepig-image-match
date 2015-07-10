@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Mermessus_tridentatus-FMNH.jpg"
+src: "/images/epigyna/Mermessus_tridentatus-FMNH.jpg"
 descriptors: !!opencv-matrix
    rows: 1274
    cols: 64

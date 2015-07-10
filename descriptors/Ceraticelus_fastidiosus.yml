@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Ceraticelus_fastidiosus.jpg"
+src: "/images/epigyna/Ceraticelus_fastidiosus.jpg"
 descriptors: !!opencv-matrix
    rows: 545
    cols: 64

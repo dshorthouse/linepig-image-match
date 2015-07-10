@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Walck_brevicornis.99-8.080721sh.jpg"
+src: "/images/epigyna/Walck_brevicornis.99-8.080721sh.jpg"
 descriptors: !!opencv-matrix
    rows: 456
    cols: 64

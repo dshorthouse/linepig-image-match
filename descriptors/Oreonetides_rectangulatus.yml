@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Oreonetides_rectangulatus.jpg"
+src: "/images/epigyna/Oreonetides_rectangulatus.jpg"
 descriptors: !!opencv-matrix
    rows: 1419
    cols: 64

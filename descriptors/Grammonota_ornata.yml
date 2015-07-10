@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Grammonota_ornata.jpg"
+src: "/images/epigyna/Grammonota_ornata.jpg"
 descriptors: !!opencv-matrix
    rows: 643
    cols: 64

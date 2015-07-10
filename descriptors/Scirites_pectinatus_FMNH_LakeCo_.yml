@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Scirites_pectinatus-FMNH(LakeCo).jpg"
+src: "/images/epigyna/Scirites_pectinatus-FMNH(LakeCo).jpg"
 descriptors: !!opencv-matrix
    rows: 402
    cols: 64

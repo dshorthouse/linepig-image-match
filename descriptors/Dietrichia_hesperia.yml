@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Dietrichia_hesperia.jpg"
+src: "/images/epigyna/Dietrichia_hesperia.jpg"
 descriptors: !!opencv-matrix
    rows: 809
    cols: 64

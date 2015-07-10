@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Mermessus_denticulatus-DNMS.jpg"
+src: "/images/epigyna/Mermessus_denticulatus-DNMS.jpg"
 descriptors: !!opencv-matrix
    rows: 479
    cols: 64

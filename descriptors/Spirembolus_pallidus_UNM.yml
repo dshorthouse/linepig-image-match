@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Spirembolus_pallidus-UNM.jpg"
+src: "/images/epigyna/Spirembolus_pallidus-UNM.jpg"
 descriptors: !!opencv-matrix
    rows: 1141
    cols: 64

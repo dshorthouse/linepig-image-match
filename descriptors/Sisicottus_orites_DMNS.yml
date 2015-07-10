@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Sisicottus_orites.DMNS.jpg"
+src: "/images/epigyna/Sisicottus_orites.DMNS.jpg"
 descriptors: !!opencv-matrix
    rows: 417
    cols: 64

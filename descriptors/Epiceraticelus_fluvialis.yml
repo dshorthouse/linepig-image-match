@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Epiceraticelus_fluvialis.jpg"
+src: "/images/epigyna/Epiceraticelus_fluvialis.jpg"
 descriptors: !!opencv-matrix
    rows: 357
    cols: 64

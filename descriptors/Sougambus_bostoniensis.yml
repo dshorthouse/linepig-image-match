@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Sougambus_bostoniensis.jpg"
+src: "/images/epigyna/Sougambus_bostoniensis.jpg"
 descriptors: !!opencv-matrix
    rows: 527
    cols: 64

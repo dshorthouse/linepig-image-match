@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Goneatara_platyrhinus.jpg"
+src: "/images/epigyna/Goneatara_platyrhinus.jpg"
 descriptors: !!opencv-matrix
    rows: 679
    cols: 64

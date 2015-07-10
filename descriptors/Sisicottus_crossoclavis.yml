@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Sisicottus_crossoclavis.jpg"
+src: "/images/epigyna/Sisicottus_crossoclavis.jpg"
 descriptors: !!opencv-matrix
    rows: 639
    cols: 64

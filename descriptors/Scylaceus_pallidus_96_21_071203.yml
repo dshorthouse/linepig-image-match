@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Scylaceus_pallidus.96-21.071203.jpg"
+src: "/images/epigyna/Scylaceus_pallidus.96-21.071203.jpg"
 descriptors: !!opencv-matrix
    rows: 190
    cols: 64

@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Metopobactrus_prominulus.jpg"
+src: "/images/epigyna/Metopobactrus_prominulus.jpg"
 descriptors: !!opencv-matrix
    rows: 446
    cols: 64

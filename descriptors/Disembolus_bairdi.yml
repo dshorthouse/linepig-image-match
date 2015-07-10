@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Disembolus_bairdi.jpg"
+src: "/images/epigyna/Disembolus_bairdi.jpg"
 descriptors: !!opencv-matrix
    rows: 597
    cols: 64

@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Maso_sundevalli.jpg"
+src: "/images/epigyna/Maso_sundevalli.jpg"
 descriptors: !!opencv-matrix
    rows: 1052
    cols: 64

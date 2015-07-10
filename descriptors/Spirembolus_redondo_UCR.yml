@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Spirembolus_redondo-UCR.jpg"
+src: "/images/epigyna/Spirembolus_redondo-UCR.jpg"
 descriptors: !!opencv-matrix
    rows: 454
    cols: 64

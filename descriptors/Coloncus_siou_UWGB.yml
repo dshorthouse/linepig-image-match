@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Coloncus_siou-UWGB.jpg"
+src: "/images/epigyna/Coloncus_siou-UWGB.jpg"
 descriptors: !!opencv-matrix
    rows: 1403
    cols: 64

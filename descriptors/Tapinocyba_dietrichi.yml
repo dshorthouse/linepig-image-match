@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Tapinocyba_dietrichi.jpg"
+src: "/images/epigyna/Tapinocyba_dietrichi.jpg"
 descriptors: !!opencv-matrix
    rows: 215
    cols: 64

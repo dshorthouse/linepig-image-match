@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Grammonota_gigas-SLobodaMcGill.jpg"
+src: "/images/epigyna/Grammonota_gigas-SLobodaMcGill.jpg"
 descriptors: !!opencv-matrix
    rows: 118
    cols: 64

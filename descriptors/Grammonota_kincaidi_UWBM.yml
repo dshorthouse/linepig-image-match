@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Grammonota_kincaidi-UWBM.jpg"
+src: "/images/epigyna/Grammonota_kincaidi-UWBM.jpg"
 descriptors: !!opencv-matrix
    rows: 1589
    cols: 64

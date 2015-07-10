@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Ceratinella_brunea.jpg"
+src: "/images/epigyna/Ceratinella_brunea.jpg"
 descriptors: !!opencv-matrix
    rows: 1189
    cols: 64

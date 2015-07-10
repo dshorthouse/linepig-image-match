@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Diplocephalus_barbiger.jpg"
+src: "/images/epigyna/Diplocephalus_barbiger.jpg"
 descriptors: !!opencv-matrix
    rows: 609
    cols: 64

@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Cnephalocotes_obscurus.jpg"
+src: "/images/epigyna/Cnephalocotes_obscurus.jpg"
 descriptors: !!opencv-matrix
    rows: 522
    cols: 64

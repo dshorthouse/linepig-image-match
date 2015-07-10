@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Collinsia_holmgreni-UAM.jpg"
+src: "/images/epigyna/Collinsia_holmgreni-UAM.jpg"
 descriptors: !!opencv-matrix
    rows: 826
    cols: 64

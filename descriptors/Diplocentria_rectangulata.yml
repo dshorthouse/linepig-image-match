@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Diplocentria_rectangulata.jpg"
+src: "/images/epigyna/Diplocentria_rectangulata.jpg"
 descriptors: !!opencv-matrix
    rows: 402
    cols: 64

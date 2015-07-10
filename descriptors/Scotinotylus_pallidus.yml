@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Scotinotylus_pallidus.jpg"
+src: "/images/epigyna/Scotinotylus_pallidus.jpg"
 descriptors: !!opencv-matrix
    rows: 759
    cols: 64

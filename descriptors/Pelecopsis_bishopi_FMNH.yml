@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Pelecopsis_bishopi-FMNH.jpg"
+src: "/images/epigyna/Pelecopsis_bishopi-FMNH.jpg"
 descriptors: !!opencv-matrix
    rows: 1519
    cols: 64

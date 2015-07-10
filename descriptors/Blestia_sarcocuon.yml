@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Blestia_sarcocuon.jpg"
+src: "/images/epigyna/Blestia_sarcocuon.jpg"
 descriptors: !!opencv-matrix
    rows: 1213
    cols: 64

@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Ceraticelus_alticeps-FMNH.jpg"
+src: "/images/epigyna/Ceraticelus_alticeps-FMNH.jpg"
 descriptors: !!opencv-matrix
    rows: 357
    cols: 64

@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Disembolus_alpha-UNM.jpg"
+src: "/images/epigyna/Disembolus_alpha-UNM.jpg"
 descriptors: !!opencv-matrix
    rows: 1071
    cols: 64

@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Horcotes_qaudricristatus.DMNS.jpg"
+src: "/images/epigyna/Horcotes_qaudricristatus.DMNS.jpg"
 descriptors: !!opencv-matrix
    rows: 1017
    cols: 64

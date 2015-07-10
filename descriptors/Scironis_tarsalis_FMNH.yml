@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Scironis_tarsalis-FMNH.jpg"
+src: "/images/epigyna/Scironis_tarsalis-FMNH.jpg"
 descriptors: !!opencv-matrix
    rows: 476
    cols: 64

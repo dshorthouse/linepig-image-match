@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Dicymbium_elongatum.jpg"
+src: "/images/epigyna/Dicymbium_elongatum.jpg"
 descriptors: !!opencv-matrix
    rows: 1264
    cols: 64

@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Entelecara_sombra.jpg"
+src: "/images/epigyna/Entelecara_sombra.jpg"
 descriptors: !!opencv-matrix
    rows: 691
    cols: 64

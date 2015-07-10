@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Phanetta_suterranea.jpg"
+src: "/images/epigyna/Phanetta_suterranea.jpg"
 descriptors: !!opencv-matrix
    rows: 485
    cols: 64

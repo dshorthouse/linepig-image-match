@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Tapinocyba_simplex.080411.jpg"
+src: "/images/epigyna/Tapinocyba_simplex.080411.jpg"
 descriptors: !!opencv-matrix
    rows: 151
    cols: 64

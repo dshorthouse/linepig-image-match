@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Soudinus_canaliculatus.jpg"
+src: "/images/epigyna/Soudinus_canaliculatus.jpg"
 descriptors: !!opencv-matrix
    rows: 384
    cols: 64

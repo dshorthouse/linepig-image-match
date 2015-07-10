@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Perregrinus_deformi-UAMs(uncert).jpg"
+src: "/images/epigyna/Perregrinus_deformi-UAMs(uncert).jpg"
 descriptors: !!opencv-matrix
    rows: 316
    cols: 64

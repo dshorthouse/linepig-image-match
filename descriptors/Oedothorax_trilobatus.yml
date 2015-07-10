@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Oedothorax_trilobatus.jpg"
+src: "/images/epigyna/Oedothorax_trilobatus.jpg"
 descriptors: !!opencv-matrix
    rows: 1717
    cols: 64

@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Wabasso_cacuminatus.jpg"
+src: "/images/epigyna/Wabasso_cacuminatus.jpg"
 descriptors: !!opencv-matrix
    rows: 375
    cols: 64

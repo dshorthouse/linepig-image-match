@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Islandiana_lasalana.DMNS.jpg"
+src: "/images/epigyna/Islandiana_lasalana.DMNS.jpg"
 descriptors: !!opencv-matrix
    rows: 397
    cols: 64

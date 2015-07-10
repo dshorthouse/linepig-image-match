@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Dismodicus_bifrons.jpg"
+src: "/images/epigyna/Dismodicus_bifrons.jpg"
 descriptors: !!opencv-matrix
    rows: 540
    cols: 64

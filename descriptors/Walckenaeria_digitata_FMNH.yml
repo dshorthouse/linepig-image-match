@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Walckenaeria_digitata-FMNH.jpg"
+src: "/images/epigyna/Walckenaeria_digitata-FMNH.jpg"
 descriptors: !!opencv-matrix
    rows: 620
    cols: 64

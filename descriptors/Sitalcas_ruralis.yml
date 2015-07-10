@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Sitalcas_ruralis.jpg"
+src: "/images/epigyna/Sitalcas_ruralis.jpg"
 descriptors: !!opencv-matrix
    rows: 562
    cols: 64

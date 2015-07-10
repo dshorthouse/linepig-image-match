@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Tunagyna_debilis.jpg"
+src: "/images/epigyna/Tunagyna_debilis.jpg"
 descriptors: !!opencv-matrix
    rows: 395
    cols: 64

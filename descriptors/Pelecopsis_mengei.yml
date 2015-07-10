@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Pelecopsis_mengei.jpg"
+src: "/images/epigyna/Pelecopsis_mengei.jpg"
 descriptors: !!opencv-matrix
    rows: 726
    cols: 64

@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Walckenaeria_lepida-UAM.jpg"
+src: "/images/epigyna/Walckenaeria_lepida-UAM.jpg"
 descriptors: !!opencv-matrix
    rows: 904
    cols: 64

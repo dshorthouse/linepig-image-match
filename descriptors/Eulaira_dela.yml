@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Eulaira_dela.jpg"
+src: "/images/epigyna/Eulaira_dela.jpg"
 descriptors: !!opencv-matrix
    rows: 517
    cols: 64

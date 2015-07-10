@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Sisicus_penifusifer-FMNH(1957).jpg"
+src: "/images/epigyna/Sisicus_penifusifer-FMNH(1957).jpg"
 descriptors: !!opencv-matrix
    rows: 305
    cols: 64

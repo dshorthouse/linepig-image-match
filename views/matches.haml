@@ -1,2 +1,7 @@
+%h2 Best Match
+- best = @matches.shift
+%img{src: best[:image_src], width: 400}
+
+%h3 Other Potential Matches
 - @matches.each do |match|
   %img{src: match[:image_src], width: 200}

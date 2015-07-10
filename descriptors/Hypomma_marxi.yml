@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Hypomma_marxi.jpg"
+src: "/images/epigyna/Hypomma_marxi.jpg"
 descriptors: !!opencv-matrix
    rows: 1204
    cols: 64

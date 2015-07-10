@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Walck_atrotibials.9135.080721sh.jpg"
+src: "/images/epigyna/Walck_atrotibials.9135.080721sh.jpg"
 descriptors: !!opencv-matrix
    rows: 734
    cols: 64

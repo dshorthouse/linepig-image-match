@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Idionella_tugana.jpg"
+src: "/images/epigyna/Idionella_tugana.jpg"
 descriptors: !!opencv-matrix
    rows: 1126
    cols: 64

@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Traematosis_bispinosus.jpg"
+src: "/images/epigyna/Traematosis_bispinosus.jpg"
 descriptors: !!opencv-matrix
    rows: 581
    cols: 64

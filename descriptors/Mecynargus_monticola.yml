@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Mecynargus_monticola.jpg"
+src: "/images/epigyna/Mecynargus_monticola.jpg"
 descriptors: !!opencv-matrix
    rows: 496
    cols: 64

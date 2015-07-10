@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Tiso_vagans.jpg"
+src: "/images/epigyna/Tiso_vagans.jpg"
 descriptors: !!opencv-matrix
    rows: 714
    cols: 64

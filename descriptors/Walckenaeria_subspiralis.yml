@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Walckenaeria_subspiralis.jpg"
+src: "/images/epigyna/Walckenaeria_subspiralis.jpg"
 descriptors: !!opencv-matrix
    rows: 941
    cols: 64

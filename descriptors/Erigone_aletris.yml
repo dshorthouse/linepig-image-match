@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Erigone_aletris.jpg"
+src: "/images/epigyna/Erigone_aletris.jpg"
 descriptors: !!opencv-matrix
    rows: 1793
    cols: 64

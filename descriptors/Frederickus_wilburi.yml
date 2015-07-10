@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Frederickus_wilburi.jpg"
+src: "/images/epigyna/Frederickus_wilburi.jpg"
 descriptors: !!opencv-matrix
    rows: 459
    cols: 64

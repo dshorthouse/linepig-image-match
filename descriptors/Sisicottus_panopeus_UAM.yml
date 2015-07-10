@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Sisicottus_panopeus-UAM.jpg"
+src: "/images/epigyna/Sisicottus_panopeus-UAM.jpg"
 descriptors: !!opencv-matrix
    rows: 1161
    cols: 64

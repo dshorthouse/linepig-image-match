@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Masoncus_arienus-UNM.jpg"
+src: "/images/epigyna/Masoncus_arienus-UNM.jpg"
 descriptors: !!opencv-matrix
    rows: 279
    cols: 64

@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Dismodicus_decemoculatus-MCZ-epigynum-Montage.jpg"
+src: "/images/epigyna/Dismodicus_decemoculatus-MCZ-epigynum-Montage.jpg"
 descriptors: !!opencv-matrix
    rows: 1596
    cols: 64

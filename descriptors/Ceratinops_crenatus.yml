@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Ceratinops_crenatus.jpg"
+src: "/images/epigyna/Ceratinops_crenatus.jpg"
 descriptors: !!opencv-matrix
    rows: 665
    cols: 64

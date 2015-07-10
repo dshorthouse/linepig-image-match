@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Gnathonarium_taczanowskii-UAM.jpg"
+src: "/images/epigyna/Gnathonarium_taczanowskii-UAM.jpg"
 descriptors: !!opencv-matrix
    rows: 590
    cols: 64

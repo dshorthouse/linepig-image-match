@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Scironis_sima-DMNS.jpg"
+src: "/images/epigyna/Scironis_sima-DMNS.jpg"
 descriptors: !!opencv-matrix
    rows: 536
    cols: 64

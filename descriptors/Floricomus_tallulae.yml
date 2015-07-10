@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Floricomus_tallulae.jpg"
+src: "/images/epigyna/Floricomus_tallulae.jpg"
 descriptors: !!opencv-matrix
    rows: 822
    cols: 64

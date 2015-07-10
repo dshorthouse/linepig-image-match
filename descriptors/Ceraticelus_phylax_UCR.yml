@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Ceraticelus_phylax-UCR.jpg"
+src: "/images/epigyna/Ceraticelus_phylax-UCR.jpg"
 descriptors: !!opencv-matrix
    rows: 444
    cols: 64

@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Tachygina_haydeni.DMNS.jpg"
+src: "/images/epigyna/Tachygina_haydeni.DMNS.jpg"
 descriptors: !!opencv-matrix
    rows: 457
    cols: 64

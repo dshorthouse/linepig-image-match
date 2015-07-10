@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Anthrobia_monmouthia-MCZ-epigynum-Montage.jpg"
+src: "/images/epigyna/Anthrobia_monmouthia-MCZ-epigynum-Montage.jpg"
 descriptors: !!opencv-matrix
    rows: 776
    cols: 64

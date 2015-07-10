@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Tmeticus_ornatus.jpg"
+src: "/images/epigyna/Tmeticus_ornatus.jpg"
 descriptors: !!opencv-matrix
    rows: 1381
    cols: 64

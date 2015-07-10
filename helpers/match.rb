@@ -38,11 +38,10 @@ module Sinatra
           matches = Std::Vector.new(cv::DMatch)
           matcher.match(@descriptors_query, descriptors_train, matches)
 
-          src = raw_src.to_s.gsub(Sinatra::Application.settings.root,'').gsub("/public","")
           good_match_size = matches.find_all{|match| match.distance < 0.2}.size
 
           if good_match_size > 10
-            match_results << {image_src: src, score: good_match_size}
+            match_results << {image_src: raw_src.to_s, score: good_match_size}
           end
         end
         match_results

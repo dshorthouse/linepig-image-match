@@ -1,5 +1,5 @@
 %YAML:1.0
-src: "/Users/dshorthouse/Sites/linepig/public/images/epigyna/Halorates_alascensis.jpg"
+src: "/images/epigyna/Halorates_alascensis.jpg"
 descriptors: !!opencv-matrix
    rows: 801
    cols: 64
