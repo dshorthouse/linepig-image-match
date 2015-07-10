@@ -1,7 +1,7 @@
 %h2 Best Match
-- best = @matches.shift
-%img{src: best[:image_src], width: 400}
+- best = @similarities.shift
+%img{src: "/images/epigyna/" + best.first, width: 400}
 
 %h3 Other Potential Matches
-- @matches.each do |match|
-  %img{src: match[:image_src], width: 200}
+- @similarities.each do |similar|
+  %img{src: "/images/epigyna/" + similar.first, width: 200}

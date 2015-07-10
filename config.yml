@@ -1,11 +1,17 @@
 development:
   image_library: "/Users/dshorthouse/Sites/linepig-image-match/public/images/epigyna/"
   descriptor_store: "/Users/dshorthouse/Sites/linepig-image-match/descriptors/"
+  super_descriptor: "/Users/dshorthouse/Sites/linepig-image-match/descriptors/super_descriptor.yml"
+  super_descriptor_index: "/Users/dshorthouse/Sites/linepig-image-match/descriptors/super_descriptor_index.yml"
 
 test:
   image_library: "/Users/dshorthouse/Sites/linepig-image-match/public/images/epigyna/"
   descriptor_store: "/Users/dshorthouse/Sites/linepig-image-match/descriptors/"
+  super_descriptor: "/Users/dshorthouse/Sites/linepig-image-match/descriptors/super_descriptor.yml"
+  super_descriptor_index: "/Users/dshorthouse/Sites/linepig-image-match/descriptors/super_descriptor_index.yml"
 
 production:
   image_library: "/Users/dshorthouse/Sites/linepig-image-match/public/images/epigyna/"
   descriptor_store: "/Users/dshorthouse/Sites/linepig-image-match/descriptors/"
+  super_descriptor: "/Users/dshorthouse/Sites/linepig-image-match/descriptors/super_descriptor.yml"
+  super_descriptor_index: "/Users/dshorthouse/Sites/linepig-image-match/descriptors/super_descriptor_index.yml"

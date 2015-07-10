@@ -9,45 +9,41 @@ module Sinatra
 
       def execute_match(image)
         @image = image
+        @descriptors_query = cv::Mat.new
         build_descriptors_query
-        @matches = find_matches.sort_by{|v| v[:score]}.reverse.first(10)
+        @similarities = find_matches
       end
 
       def build_descriptors_query
         detector = cv::Feature2D::create("SURF")
         mat_query = cv::imread(@image, cv::IMREAD_GRAYSCALE)
         keypoints_query = Std::Vector.new(cv::KeyPoint)
-        @descriptors_query = cv::Mat.new
         detector.detect_and_compute(mat_query, mat_query, keypoints_query, @descriptors_query)
       end
 
       def find_matches
-        match_results = []
+        descriptors_train = cv::Mat.new
+        cvfile = cv::FileStorage.new(Sinatra::Application.settings.super_descriptor, cv::FileStorage::READ)
+        cv::read_mat(cvfile["descriptors"], descriptors_train, descriptors_train)
+        cvfile.release
+
         matcher = cv::DescriptorMatcher::create("FlannBased")
-        Find.find(Sinatra::Application.settings.descriptor_store) do |file|
-          next if !['.yml'].include? File.extname(file)
+        matches = Std::Vector.new(cv::DMatch)
+        matcher.match(@descriptors_query, descriptors_train, matches)
 
-          file_name = File.basename(file, File.extname(file))
-          file_name.gsub!(/[^0-9A-Za-z]/, '_')
-
-          cvfile = cv::FileStorage.new(file, cv::FileStorage::READ)
-
-          raw_src = cv::String.new
-          descriptors_train = cv::Mat.new
-          cv::read_string(cvfile["src"], raw_src, raw_src)
-          cv::read_mat(cvfile["descriptors"], descriptors_train, descriptors_train)
-          cvfile.release
-
-          matches = Std::Vector.new(cv::DMatch)
-          matcher.match(@descriptors_query, descriptors_train, matches)
-
-          good_match_size = matches.find_all{|match| match.distance < 0.2}.size
-
-          if good_match_size > 10
-            match_results << {image_src: raw_src.to_s, score: good_match_size}
+        similarities = {}
+        index = YAML::load_file(Sinatra::Application.settings.super_descriptor_index)
+        matches.each do |match|
+          if match.distance < 0.2
+            image = index.detect{|k,v| k === match.get_trainIdx}.last
+            if similarities.has_key?(image)
+              similarities[image] += 1
+            else
+              similarities[image] = 1
+            end
           end
         end
-        match_results
+        similarities.sort_by{|k,v| v}.reverse.first(10).to_h
       end
     
     end
