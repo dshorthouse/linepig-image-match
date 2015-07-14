@@ -1,12 +1,6 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    activesupport (4.2.3)
-      i18n (~> 0.7)
-      json (~> 1.7, >= 1.7.7)
-      minitest (~> 5.1)
-      thread_safe (~> 0.3, >= 0.3.4)
-      tzinfo (~> 1.1)
     backports (3.6.4)
     byebug (5.0.0)
       columnize (= 0.9.0)
@@ -14,13 +8,12 @@ GEM
     daemons (1.2.3)
     diff-lcs (1.2.5)
     eventmachine (1.0.7)
+    exifr (1.2.3)
     ffi (1.9.10)
     haml (4.0.6)
       tilt
-    i18n (0.7.0)
-    json (1.8.3)
-    minitest (5.7.0)
     multi_json (1.11.2)
+    nokogiri (1.5.11)
     rack (1.6.4)
     rack-protection (1.5.3)
       rack
@@ -62,17 +55,16 @@ GEM
       daemons (~> 1.0, >= 1.0.9)
       eventmachine (~> 1.0)
       rack (~> 1.0)
-    thread_safe (0.3.5)
     tilt (2.0.1)
-    tzinfo (1.2.2)
-      thread_safe (~> 0.1)
+    xmp (0.2.0)
+      nokogiri (~> 1.5.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  activesupport
   byebug
+  exifr
   haml
   rake
   require_all
@@ -82,3 +74,4 @@ DEPENDENCIES
   sinatra
   sinatra-contrib
   thin
+  xmp

@@ -26,7 +26,7 @@ module Linepig
         index_end = rows + descriptors_train.rows
         index[rows..index_end] = File.basename(file)
         puts File.basename(file) + " start:" + rows.to_s + " end:" + index_end.to_s
-        rows += descriptors_train.rows
+        rows += descriptors_train.rows + 1
         super_descriptors.push_back(descriptors_train)
       end
       File.open(Sinatra::Application.settings.super_descriptor_index, "w") do |file|
